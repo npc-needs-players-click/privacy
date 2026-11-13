@@ -113,4 +113,4 @@ EU GDPR, 영국 GDPR, 미국 CCPA)에 따라 개인정보의 열람, 정정, 삭
 
 이 방침이 바뀌면 이 페이지와 시행일을 고치고, 중요한 변경은 게임 업데이트 안내에도 알립니다.
 
-영문 보기: [Privacy Policy](en)
+영문 보기: [Privacy Policy](en.md)

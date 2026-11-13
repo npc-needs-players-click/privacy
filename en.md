@@ -112,4 +112,4 @@ changes will also be noted in the game's update notes.
 
 TryBunnyhop — contact@trybunnyhop.vip
 
-Read this policy in Korean: [개인정보처리방침](ko)
+Read this policy in Korean: [개인정보처리방침](ko.md)
