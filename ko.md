@@ -1,17 +1,9 @@
-# 개인정보처리방침 — TryBunnyhop 게임
+# 개인정보처리방침 — NPC Needs Player's Click
 
 시행일: 2026년 11월 13일
 
-이 개인정보처리방침은 TryBunnyhop(이하 "개발자")이 배포하는 모바일 게임에서 정보가 어떻게
-다뤄지는지 설명합니다. 이 페이지를 연결한 모든 TryBunnyhop 게임에 적용되며, 지금 적용되는
-게임은 다음과 같습니다.
-
-| 게임 | 플랫폼 |
-|---|---|
-| NPC Needs Player's Click | Android |
-| Pose or Fall | Android |
-
-어떤 게임이 여기와 다르게 정보를 다루게 되면, 그 내용을 이 문서에 따로 적습니다.
+이 개인정보처리방침은 TryBunnyhop(이하 "개발자")이 배포하는 Android 게임 **NPC Needs Player's Click**(이하 "게임")에서
+정보가 어떻게 다뤄지는지 설명합니다.
 
 ## 1. 개발자 정보
 

@@ -1,18 +1,9 @@
-# Privacy Policy — TryBunnyhop Games
+# Privacy Policy — NPC Needs Player's Click
 
 Effective date: November 13, 2026
 
-This Privacy Policy explains how information is handled in mobile games published by
-TryBunnyhop ("we", "us"). It applies to every TryBunnyhop game that links to this page,
-including:
-
-| Game | Platforms |
-|---|---|
-| NPC Needs Player's Click | Android |
-| Pose or Fall | Android |
-
-If a game ever handles information differently from what is described here, that game's
-section below says so.
+This Privacy Policy explains how information is handled in **NPC Needs Player's Click** (the "game"), a
+mobile game for Android by TryBunnyhop ("we", "us").
 
 ## 1. Who we are
 
@@ -25,7 +16,7 @@ section below says so.
   any other information that identifies you.
 - Your game progress and settings stay on your device. We do not run servers that receive
   them.
-- Our games show ads through **Google AdMob**. Google may collect certain device
+- The game shows ads through **Google AdMob**. Google may collect certain device
   information to show and measure those ads, as explained below.
 
 ## 3. Information we collect
@@ -43,7 +34,7 @@ data.
 
 ## 4. Advertising (Google AdMob)
 
-Our games show banner ads and optional rewarded ads (ads you choose to watch for an in-game
+The game shows banner ads and optional rewarded ads (ads you choose to watch for an in-game
 reward) using Google AdMob, a service of Google LLC.
 
 To show ads, the Google Mobile Ads SDK in the game may collect or receive:
@@ -79,9 +70,9 @@ only for watching an ad you chose to watch.
 
 ## 6. Children
 
-Our games are not directed at children under 13, and we do not knowingly collect personal
+The game is not directed at children under 13, and we do not knowingly collect personal
 information from children. If you believe a child has provided personal information through
-one of our games, contact us and we will help remove it.
+the game, contact us and we will help remove it.
 
 ## 7. Sharing of information
 
